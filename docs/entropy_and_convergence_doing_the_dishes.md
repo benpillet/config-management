@@ -1,0 +1,3 @@
+Aggregate out of sync by placement and class. Aggregate total and compute entropy of out of sync/total. It’s coarse. Some changes are more intrusive than others. The ritual is to manage these entropies. It’s tech debt. You can measure across environments too. Distance from front to back of the parade. This results in a bunch of little commits that are disparate. This is a process, not an event. It’s shepherding. With automated dry runs you can catch local changes. Making servers read only isn’t necessary. This is a way of seeing whose doing what and instigate PR/code change process. It’s necessary to know which is correct, the code or the server. A sub pattern is making a change and seeing the entropy spike/surge. Ie. the graph looks like a snake eating an animal.
+
+
